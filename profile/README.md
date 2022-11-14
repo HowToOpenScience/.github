@@ -22,6 +22,10 @@ Currently, this group is focused on these goals in the following disciplines and
 
 The content of this Open Science Framework project and all subprojects is under the [Creative Commons Attribution 4.0 International License][license] unless otherwise specified.
 
+## Attributions
+
+* The [organization icon][icon] [IconPark Outline unlock-one][icon-location] is provided under the [Apache-2.0 License][icon-license]. The icon was transformed into a 1000 x 1000 PNG file and made white.
+
 ## Citation
 
 ```
@@ -51,3 +55,7 @@ The content of this Open Science Framework project and all subprojects is under 
 [nheffernan-site]: https://www.neilheffernan.net/
 
 [license]: ../LICENSE
+
+[icon]: ../assets/icon/unlock-one.png
+[icon-location]: https://github.com/bytedance/IconPark
+[icon-license]: https://github.com/bytedance/IconPark/blob/master/LICENSE
