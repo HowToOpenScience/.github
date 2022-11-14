@@ -24,7 +24,7 @@ The content of this Open Science Framework project and all subprojects is under 
 
 ## Attributions
 
-* The [organization icon][icon] [IconPark Outline unlock-one][icon-location] is provided under the [Apache-2.0 License][icon-license]. The icon was transformed into a 1000 x 1000 PNG file and made white.
+* The [organization icon][icon] [IconPark Outline unlock-one][icon-location] is provided under the [Apache-2.0 License][icon-license]. The icon was transformed into a 1000 x 1000 PNG file and made white with a gray background.
 
 ## Citation
 
