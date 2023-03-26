@@ -96,6 +96,14 @@ Code Ocean is provided under the following [Terms of Use][codeocean-terms].
 
 ## Explanations and Tutorials
 
+### [Let's Discover Open Science and Reproducibility][ldosr-substack]
+
+*Let's Discover Open Science and Reproducibility* is a blog written by Aaron Haim, one of the maintainers of this site, reviewing and explaining topics on how to best make your work open and reproducible for someone who has never encountered the subject before.
+
+The blog is currently available on [Substack][ldosr-substack] and [Cohost][ldosr-cohost] with plans to make online videos on them in the future.
+
+As a blog, the contents are within the Public Domain.
+
 ### [Improving Your Statistical Inferences][iysi-site]
 
 * Lakens, D. (2022). Improving Your Statistical Inferences (v1.0.0). Zenodo. Retrieved from [https://lakens.github.io/statistical_inferences/index.html][iysi-site]. [https://doi.org/10.5281/zenodo.6409077][iysi-doi]
@@ -117,6 +125,9 @@ The website is licensed under [CC-BY-NC-SA-4.0][ccbyncsa]
 [iysi-site]: https://lakens.github.io/statistical_inferences/index.html
 [iysi-doi]: https://doi.org/10.5281/zenodo.6409077
 [ccbyncsa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+[ldosr-substack]: https://osreproducible.substack.com/
+[ldosr-cohost]: https://cohost.org/osreproducible
 
 [codeocean]: https://codeocean.com/
 [codeocean-terms]: https://codeocean.com/terms-of-use/
