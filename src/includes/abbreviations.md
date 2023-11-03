@@ -13,6 +13,9 @@
 <!-- Organizations -->
 *[PSF]: Python Software Foundation
 *[LAK]: Learning Analytics and Knowledge
+*[AIED]: Artificial Intelligence in Education
+*[EDM]: Educational Data Mining
+*[L@S]: Learning @ Scale
 
 <!-- Locations -->
 *[USA]: United States of America
